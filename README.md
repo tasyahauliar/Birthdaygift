@@ -2,21 +2,6 @@
 
 Proyek ini adalah halaman web sederhana berbentuk slideshow interaktif yang dibuat untuk memberikan kejutan ulang tahun spesial. Web ini menampilkan pesan personal, memutar lagu secara otomatis, dan menampilkan galeri foto kenangan.
 
-## 📁 Struktur Folder
-.
-├── index.html
-├── css/
-│ └── style.css
-├── javascript/
-│ ├── script.js
-│ └── heart.js
-├── galery/
-│ ├── foto1.jpg
-│ ├── foto2.jpg
-│ └── ... (hingga foto8.jpg)
-├── Audio/
-│ └── Nadin Amizah - Semua Aku Dirayakan (Official Music Video).mp3
-
 ## 📌 Fitur
 - 🎵 Musik otomatis yang diputar saat halaman dibuka (`autoplay loop`)
 - 💌 Slide 1: Ucapan ulang tahun dan pesan personal
